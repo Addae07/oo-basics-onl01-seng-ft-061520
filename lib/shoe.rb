@@ -1,1 +1,5 @@
-class Shoe # Make your shoe class here!
+lass Shoe
+  def initialize(title)
+    @title = title
+  end
+ 
